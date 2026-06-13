@@ -1,0 +1,6 @@
+{
+  "name": "Script Voice Over Generator",
+  "description": "Generate custom high-quality voice-overs with adjustable narrator styles and sequence timing controls utilizing the Gemini TTS API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
